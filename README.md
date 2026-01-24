@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shaunakondare999@gmail.com**
 
-- ⚡ Fun fact **:Life**
+- ⚡ Fun fact **: Life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
