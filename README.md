@@ -2,7 +2,7 @@
 
 ### DevOps Engineer building scalable cloud infrastructure with Kubernetes, Terraform, and CI/CD pipelines, integrating DevSecOps practices for secure and automated deployments.
 
-![](https://komarev.com/ghpvc/?username=Shaunak-ondare&color=green&style=plastic)
+![](https://komarev.com/ghpvc/?username=Shaunak-ondare&color=blueviolet&style=plastic)
 
 <p align="left"> <a href="https://twitter.com/vibeinloop" target="blank"><img src="https://img.shields.io/twitter/follow/vibeinloop?logo=twitter&style=for-the-badge" alt="vibeinloop" /></a> </p>
 
