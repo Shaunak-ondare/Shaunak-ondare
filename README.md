@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Shaunak-ondare&color=blueviolet&style=plastic)
 
-<p align="left"> <a href="https://twitter.com/vibeinloop" target="blank"><img src="https://img.shields.io/twitter/follow/vibeinloop?logo=twitter&style=for-the-badge" alt="vibeinloop" /></a> </p>
-
 - 🌱 I'm currently learning **new devops tool and maybe some rekordbox**
 
 - 👯 I'm looking to collaborate on **any type of devops project when my expertise helps**
