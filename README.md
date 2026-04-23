@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **life is a race but i am not racist**
 
-- 👨‍💻 All of my projects are available at **[https://shaunakondare.vercel.app/](https://shaunakondare.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[notshaunak.space/](https://www.notshaunak.space/)**
 
 - 📄 Know about my experiences **[https://shaunakondare.vercel.app/Shaunak_Resume.pdf](https://shaunakondare.vercel.app/Shaunak_Resume.pdf)**
 
