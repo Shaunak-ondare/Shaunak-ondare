@@ -18,10 +18,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Shaunak-ondare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shaunak-ondare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaunak-ondare20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaunak-ondare20" height="30" width="40" /></a>
-<a href="https://instagram.com/shaunak.ondare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.ondare" height="30" width="40" /></a>
-<a href="https://twitter.com/vibeinloop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibeinloop" height="30" width="40" /></a>
+  <a href="https://github.com/Shaunak-ondare" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/shaunak-ondare20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/shaunak.ondare" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://twitter.com/vibeinloop" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
